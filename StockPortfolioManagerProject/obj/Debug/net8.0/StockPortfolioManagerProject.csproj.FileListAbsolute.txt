@@ -1,0 +1,14 @@
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\bin\Debug\net8.0\StockPortfolioManagerProject.exe
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\bin\Debug\net8.0\StockPortfolioManagerProject.deps.json
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\bin\Debug\net8.0\StockPortfolioManagerProject.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\bin\Debug\net8.0\StockPortfolioManagerProject.dll
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\bin\Debug\net8.0\StockPortfolioManagerProject.pdb
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.dll
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\refint\StockPortfolioManagerProject.dll
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.pdb
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\StockPortfolioManagerProject.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\StockPortfolioManagerProject\StockPortfolioManagerProject\obj\Debug\net8.0\ref\StockPortfolioManagerProject.dll
